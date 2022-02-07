@@ -1,0 +1,5 @@
+
+> vue-element-admin@4.4.0 dev
+> vue-cli-service serve
+
+バッチ ジョブを終了しますか (Y/N)? 
